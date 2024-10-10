@@ -1,0 +1,7 @@
+baseURL: https://how-to-deploy-a-static-website-to-digital-ocean.robinvanderknaap.dev/
+languageCode: en-us
+title: How to deploy a static website to DigitalOcean
+module:
+   hugoVersion:
+    extended: true
+    min: "0.112.0"

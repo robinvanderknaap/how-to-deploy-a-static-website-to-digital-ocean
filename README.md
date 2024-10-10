@@ -1,1 +1,2 @@
-# how-to-deploy-a-static-website-to-digital-ocean
+# How to deploy a static website to DigtalOcean
+Example static site used in blog article [https://robinvanderknaap.dev/how-to-deploy-a-static-website-to-digitalocean](https://robinvanderknaap.dev/how-to-deploy-a-static-website-to-digitalocean)
